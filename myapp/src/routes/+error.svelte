@@ -1,1 +1,1 @@
-<h1 class="text-green-800">Ops, ocorreu um erro!</h1>
+<h1 class="text-green-500">Ops, ocorreu um erro!</h1>
